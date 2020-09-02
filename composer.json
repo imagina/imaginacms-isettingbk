@@ -15,9 +15,9 @@
     }
   ],
   "support": {
-    "email": "support@asgardcms.com",
-    "issues": "https://github.com/AsgardCms/Platform/issues",
-    "source": "https://github.com/AsgardCms/Setting"
+    "email": "dev@imaginacolombia.com",
+    "issues": "https://github.com/imagina/imaginacms-platform/issues",
+    "source": "https://github.com/imagina/imaginacms-isetting"
   },
   "require": {
     "php": ">=7.0.0",
